@@ -1,0 +1,29 @@
+h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+tr{
+    border-bottom: 1px solid #ddd;
+}
+tr:hover {
+    background-color: #e0e0e0;
+}
+.empty-cart {
+    text-align: center;
+    padding: 20px;
+}

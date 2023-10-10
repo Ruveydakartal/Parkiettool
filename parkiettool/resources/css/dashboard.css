@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title{
+    color: darkblue;
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.subTitle{
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(65, 65, 128);
+}
+.img-hero{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 30px 0px;
+}
+
+.producten-title{
+    font-size: 30px;
+    font-weight: 500;
+    color: darkblue;
+    margin: 10px 0px;}
+
+h3{
+    font-size: 20px;
+    font-weight: 500;
+    color: darkblue;
+    margin: 10px 0px;
+}
+
+h4{
+    font-size: 17px;
+    font-weight: 500;
+    color: darkblue;
+    margin: 10px 0px;
+}
+
+.onze-producten{
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.producten{
+    margin: 50px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.product{
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    padding: 14px;
+    margin-bottom: 10px;
+    width: 18rem;
+}
+
+.btn{
+    align-self: center;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 30rem;
+    height: 15rem;
+    object-fit: cover;
+
+}

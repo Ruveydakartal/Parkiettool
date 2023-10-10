@@ -1,0 +1,30 @@
+h3{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ring_card{
+    background-color: rgba(117, 107, 253, 0.113);
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 6rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+h4{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.producten{
+    margin: 50px 0px;
+  
+}
+
